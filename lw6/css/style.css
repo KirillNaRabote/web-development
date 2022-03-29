@@ -1,0 +1,212 @@
+.align_list
+{
+  width: 469px;
+  margin-right: 99px;
+  display: flex;
+  justify-content: space-between;
+}
+.inline
+{
+  display: inline;
+}
+header
+{
+  display: flex;
+  margin: 30px 120px 0px 120px;
+  justify-content: space-between;
+}
+.align_purposes
+{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.align_nav
+{
+  display: flex;
+  align-items: center;
+}
+.align_main_text
+{
+  margin: 43px 162px 0px 178px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.center
+{
+  justify-content: center;
+}
+.theme
+{
+  font: 700 30.8354px/122.33% 'Montserrat'; 
+}
+.pink
+{
+  color:#EE58B6;
+}
+.button
+{
+  height: 55px;
+  box-sizing: border-box;
+  background-color: #05090C;
+  border-radius: 4.59px;
+}
+.small_button
+{
+  width: 247px;
+}
+.long_button
+{
+  width: 332px;
+}
+.text_button_style
+{
+  font: 600 16px 'Montserrat';
+  color: #fff;
+}
+.none_decoration
+{
+  list-style-type: none;
+}
+.navigation
+{
+  font: 500 16px 'Montserrat';
+}
+.mavrodi_style
+{
+  margin: 30.35px 57.94px 64.78px 29.57px;
+  width: 762px;
+  height: 636.87px;
+}
+.main_text
+{
+  width: 745px;
+  font: 600 100px 'Montserrat';
+}
+.after_main_text
+{
+  font: 400 26px/1.2 'Roboto Condensed';
+  color: rgba(0, 0, 0, 0.7);
+  width: 545px;
+  margin: 4.69px 0px 46px 0px;
+}
+.motivation_parts
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.align_motivation
+{
+  padding: 72px 391px 98px 393px;
+}
+.purposes
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 111px 391px 155px 391px;
+  color: #fff;
+  background-color: #000;
+  font: 400 22px/1.2 'Roboto Condensed';
+}
+.size
+{
+  width: 60px;
+  height: 60px;
+}
+.clock_text
+{
+  width: 303px;  
+  text-align: center;
+}
+.notebook_text
+{
+  width: 337px;  
+  text-align: center;
+}
+.align_notebook
+{
+  margin: 0px 115px 0px 115px;
+}
+.target_text
+{
+  width: 336.95px;
+  text-align: center; 
+}
+.course_heading_content
+{
+  font: 500 48px/60.51px 'Montserrat';
+}
+.course_text_content
+{
+  font: 400 18px/1.35 'Roboto Condensed';
+  width: 574px;
+  margin-top: 25.97px;
+}
+.finance_img
+{
+  width: 510px;
+  height: 476px;
+}
+.align_motivation_part1
+{
+  margin-top: 150px;
+}
+.mind_blowing_img
+{
+  width: 504px;
+}
+.course_features
+{
+  font: 500 48px/58.51px 'Montserrat';
+  text-align: center;
+  margin-bottom: 60px;  
+}
+.feature
+{
+  background-color: #000;
+  border-radius: 7.35723px;
+  width: 358px;
+  height: 190px;
+  margin: 15px;
+}
+.align_feature_block
+{
+  margin: 32px 49px 0px 39px;
+}
+.align_feature_text
+{
+  width: 270px;
+  margin-top: 21px;
+}
+.align_feature_text_special
+{
+  width: 287px;
+  margin-top: 21px;
+}
+.feature_text
+{
+  font: 400 18px/21px 'Roboto Condensed';
+  color: #fff;
+}
+.features_line
+{
+  display: flex;
+  justify-content: center;
+}
+.footer_decoration
+{
+  background-color: #000;
+  width: 1920px;
+  height: 108px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer_text
+{
+  font: 700 30px 'Montserrat';
+  color: #fff;
+}
