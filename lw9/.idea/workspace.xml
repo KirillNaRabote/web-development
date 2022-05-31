@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8456f48-b872-413a-ae94-7ac96de0e1d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lw8/css/form-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw8/css/search-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw8/findForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw8/form_handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw8/searchScript.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw2" beforeDir="false" afterPath="$PROJECT_DIR$/../lw2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw6/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lw6/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lw6/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2828JaGdxDEIzqJpy4un1rE4NWL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/study/WEB/lab/lw8",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8456f48-b872-413a-ae94-7ac96de0e1d4" name="Changes" comment="" />
+      <created>1650403248876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650403248876</updated>
+      <workItem from="1650403250439" duration="4767000" />
+      <workItem from="1650430888714" duration="4320000" />
+      <workItem from="1650450695606" duration="4713000" />
+      <workItem from="1650481966397" duration="2195000" />
+      <workItem from="1650977572677" duration="7733000" />
+      <workItem from="1651164953738" duration="80000" />
+      <workItem from="1651431281474" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

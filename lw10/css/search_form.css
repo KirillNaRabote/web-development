@@ -1,0 +1,26 @@
+.page__form
+{
+    display: flex;
+    padding-top: 52px;
+    padding-left: 59px;
+}
+.form__email
+{
+    width: 480px;
+    height: 64px;
+    padding-left: 28px;
+    border-radius: 4px;
+    font: 500 18px/22px 'Montserrat';
+    border: 2px solid #C0C0C0;
+}
+.form__submit
+{
+    margin-left: 53px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    width: 480px;
+    height: 64px;
+    border-radius: 6px;
+    font: 500 18px/22px 'Montserrat';
+}

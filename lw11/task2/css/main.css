@@ -1,0 +1,87 @@
+.main__section
+{
+    padding: 26px 25px 0 111px;
+    margin: 0 auto;
+    max-width: 1784px;
+}
+
+.main__button
+{
+    margin-bottom: 29px;
+    width: 372px;
+    height: 64px;
+    background-color: #000;
+    border: 0 solid;
+    border-radius: 6px;
+    font: 500 18px/22px 'Montserrat';
+    color: #fff;
+}
+
+.container__empty
+{
+    font: 500 21px/30px 'Montserrat';
+}
+
+.main__container
+{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+
+.container__card
+{
+    margin-right: 74px;
+    margin-bottom: 69px;
+    padding-top: 48px;
+    padding-left: 31px;
+    box-sizing: border-box;
+    width: 372px;
+    height: 288px;
+    background-color: #000;
+    font: 500 18px/22px 'Montserrat';
+    color: #fff;
+    border-radius: 12px;
+}
+
+.container__image
+{
+    margin-bottom: 17px;
+}
+
+.container__paragraph
+{
+    margin-bottom: 9px;
+}
+
+@media (max-width: 1919px)
+{
+    .main__section
+    {
+        max-width: 1338px;
+    }
+}
+
+@media (max-width: 1473px)
+{
+    .main__section
+    {
+        max-width: 892px;
+    }
+}
+
+@media (max-width: 1027px)
+{
+    .main__section
+    {
+        max-width: 446px;
+    }
+}
+
+@media (max-width: 581px)
+{
+    body
+    {
+        width: 581px;
+    }
+}

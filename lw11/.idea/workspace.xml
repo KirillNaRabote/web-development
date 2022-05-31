@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2be17228-30a8-4375-a32f-ee620ee13f1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task2/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/form_loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/form_loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw14/js/canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw14/js/svg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw8/form_handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw9/task1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw9/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/action_ajax_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw2" beforeDir="false" afterPath="$PROJECT_DIR$/../lw2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw6/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lw6/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lw6/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="281hDJNnXbovlTFaZUqLnmMbekx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/study/WEB/lab/lw11",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "JavaScript.Libraries",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be17228-30a8-4375-a32f-ee620ee13f1e" name="Changes" comment="" />
+      <created>1650389883400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650389883400</updated>
+      <workItem from="1650389886004" duration="644000" />
+      <workItem from="1650390596937" duration="11204000" />
+      <workItem from="1650432218676" duration="5330000" />
+      <workItem from="1650482948945" duration="671000" />
+      <workItem from="1650892253265" duration="6254000" />
+      <workItem from="1650977491153" duration="68000" />
+      <workItem from="1651439238127" duration="2831000" />
+      <workItem from="1651640917107" duration="1494000" />
+      <workItem from="1652113242621" duration="198000" />
+      <workItem from="1652114130485" duration="611000" />
+      <workItem from="1652115062226" duration="5275000" />
+      <workItem from="1652705185547" duration="6418000" />
+      <workItem from="1652795158797" duration="15569000" />
+      <workItem from="1652850490924" duration="3956000" />
+      <workItem from="1653318258864" duration="3232000" />
+      <workItem from="1653394115694" duration="26461000" />
+      <workItem from="1653455132912" duration="2587000" />
+      <workItem from="1653567390227" duration="5623000" />
+      <workItem from="1654017079891" duration="77000" />
+      <workItem from="1654021774347" duration="382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

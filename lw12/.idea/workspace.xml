@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30dd480b-59c0-4006-bb71-b89b952dde42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lw11/task2/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw11/task2/form_loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw11/task2/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw11/test/form_loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw14/js/canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw14/js/svg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw8/form_handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw9/task1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lw9/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/action_ajax_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw2" beforeDir="false" afterPath="$PROJECT_DIR$/../lw2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw6/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lw6/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lw6/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29wQdn2PKBBiWsLfzspWJodg74k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/study/WEB/lab/lw11",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30dd480b-59c0-4006-bb71-b89b952dde42" name="Changes" comment="" />
+      <created>1654021757501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654021757501</updated>
+      <workItem from="1654021758950" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
